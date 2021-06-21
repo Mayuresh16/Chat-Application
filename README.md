@@ -25,5 +25,7 @@ Steps to Execute -
 # Source Code Modification
 For any modification of the code, **Netbeans IDE is recommended**.
 
+**Note:** If you are facing any dependencies or other issue, download the archive(zip) file.
+
 # Database
 MySQL database has used which is online hosted.
